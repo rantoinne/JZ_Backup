@@ -1,0 +1,8 @@
+export const START_VISITORS_SEARCH = "Start_Visitors_Search"
+export const END_VISITORS_SEARCH = "End_Visitors_Search"
+export const START_GET_PROFILE = "Start_Get_Profile"
+export const END_GET_PROFILE = "End_Get_Profile"
+export const START_GET_USERS = "Start_Get_Users"
+export const END_GET_USERS = "End_Get_Users"
+export const START_GET_GROUPS = "Start_Get_Groups"
+export const END_GET_GROUPS = "End_Get_Groups"
