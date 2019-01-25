@@ -12,7 +12,7 @@ import Header from './Header';
 import Sidebar from './Sidebar';
 import Login from './Login';
 import ForgotPassword from './ForgotPassword';
-import ResetPassword from './ResetPassword';
+import ResetPassword from './Resetpassword';
 import Profile from '../containers/Profile';
 import AddEmployee from '../containers/AddEmployee';
 import ImportEmployees from '../containers/ImportEmployees';
